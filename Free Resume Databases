@@ -1,0 +1,598 @@
+Traditional Resume Databases (Free)
+
+These are completely legal and public.
+
+Examples include:
+Jobvertise
+PostJobFree
+MightyRecruiter
+Craigslist resumes
+GitHub
+Wellfound
+Jobcase
+Google Resume Search
+Public PDF resumes
+
+Several platforms offer free search, with varying levels of contact visibility. GitHub, public resumes indexed by Google, and some niche databases expose contact details directly, while others require upgrades for full contact information.
+
+
+LEVEL 2
+Google X-Ray Search
+
+This is still one of the strongest sourcing methods.
+
+Examples:
+
+site:linkedin.com/in "Java Developer" Dallas email
+
+site:github.com "AWS" "Texas"
+
+site:pdf "resume" Java Spring Boot Dallas
+
+site:doc resume Java developer
+
+site:docs.google.com resume Java
+
+site:drive.google.com resume Java
+
+filetype:pdf "Software Engineer"
+
+filetype:docx resume
+
+
+LEVEL 3
+GitHub
+
+Most recruiters only search users.
+
+Go much deeper.
+
+Search
+
+Repositories
+
+Commits
+
+Issues
+
+Pull Requests
+
+Followers
+
+Organizations
+
+Stars
+
+Pinned repositories
+
+Contribution graph
+
+Personal Website
+
+Email
+
+README
+
+Portfolio
+
+Package.json
+
+Docker
+
+Terraform
+
+Helm
+
+Azure DevOps
+
+Actions
+
+LEVEL 4
+Stack Overflow
+
+Many developers
+
+Use
+
+Real name
+
+Website
+
+GitHub
+
+LinkedIn
+
+Portfolio
+
+Twitter
+
+LEVEL 5
+Kaggle
+
+Excellent for
+
+AI
+
+ML
+
+Python
+
+Data Science
+
+GenAI
+
+LLM
+
+LEVEL 6
+HuggingFace
+
+Amazing source for
+
+LLM Engineers
+
+ML Engineers
+
+AI Engineers
+
+Research Engineers
+
+LEVEL 7
+Dev.to
+
+Thousands of developers.
+
+Most profiles contain
+
+Website
+
+GitHub
+
+LinkedIn
+
+Twitter
+
+Email
+
+LEVEL 8
+Medium
+
+Many engineers publish articles.
+
+Often includes
+
+Website
+
+Portfolio
+
+LinkedIn
+
+GitHub
+
+LEVEL 9
+Hashnode
+
+Developer blogs.
+
+Excellent for passive candidates.
+
+LEVEL 10
+Personal Portfolio Sites
+
+Google
+
+site:me "Java Developer"
+
+site:dev "Cloud Engineer"
+
+site:portfolio "React"
+
+site:pages.dev engineer
+
+site:vercel.app developer
+
+site:netlify.app portfolio
+LEVEL 11
+University Alumni
+
+Search
+
+MIT
+
+Stanford
+
+Georgia Tech
+
+Michigan
+
+Texas
+
+UC Berkeley
+
+Carnegie Mellon
+
+ASU
+
+Penn State
+
+University alumni directories, faculty pages, and career showcases often expose student portfolios, capstone projects, or contact routes useful for early-career recruiting.
+
+LEVEL 12
+Research Papers
+
+Google Scholar
+
+Arxiv
+
+IEEE
+
+ACM
+
+Excellent for
+
+AI
+
+ML
+
+Data Science
+
+Robotics
+
+Computer Vision
+
+LEVEL 13
+Open Source Contributors
+
+Search contributors
+
+Top contributors
+
+Recent contributors
+
+Maintainers
+
+LEVEL 14
+Package Managers
+
+NPM
+
+PyPI
+
+NuGet
+
+RubyGems
+
+Cargo
+
+Maven
+
+Many packages include
+
+Author
+
+GitHub
+
+Website
+
+Email
+
+LEVEL 15
+Conference Speakers
+
+AWS Summit
+
+Google Cloud
+
+Microsoft Ignite
+
+KubeCon
+
+DockerCon
+
+PyCon
+
+React Summit
+
+JavaOne
+
+DEFCON
+
+BlackHat
+
+LEVEL 16
+Meetup Groups
+
+Technology meetups
+
+AI
+
+Java
+
+AWS
+
+Cloud
+
+Cyber
+
+DevOps
+
+Data
+
+LEVEL 17
+Discord Communities
+
+Many developers are active here before LinkedIn.
+
+LEVEL 18
+Slack Communities
+
+React
+
+Java
+
+AWS
+
+Kubernetes
+
+MLOps
+
+Python
+
+LEVEL 19
+Reddit
+
+Search
+
+Reddit JavaJobs
+
+r/cscareerquestions
+
+r/devops
+
+r/aws
+
+r/kubernetes
+
+r/reactjs
+
+r/java
+
+r/datascience
+
+Reddit discussions also frequently point recruiters toward niche communities and lesser-known sourcing channels.
+
+LEVEL 20
+Facebook Groups
+
+Thousands of
+
+Java Developers
+
+AWS
+
+Cloud
+
+React
+
+Python
+
+SQL
+
+DevOps
+
+Groups
+
+LEVEL 21
+Telegram Groups
+
+US Jobs
+
+Tech Jobs
+
+Remote Jobs
+
+AI Jobs
+
+LEVEL 22
+X (Twitter)
+
+Search
+
+Hiring
+
+OpenToWork
+
+AWS
+
+React
+
+Java
+
+Remote
+
+Software Engineer
+LEVEL 23
+Instagram
+
+Many younger developers list
+
+Portfolio
+
+GitHub
+
+Email
+
+LEVEL 24
+YouTube
+
+Search
+
+Java Tutorial
+
+AWS Tutorial
+
+Python Tutorial
+
+
+Many creators link to
+
+Email
+
+Website
+
+GitHub
+
+LinkedIn
+
+LEVEL 25
+Product Hunt Makers
+
+Excellent for
+
+Startup Engineers
+
+Founders
+
+AI Engineers
+
+LEVEL 26
+IndieHackers
+
+Many founders.
+
+LEVEL 27
+Hacker News
+
+Search
+
+Show HN
+
+Who is Hiring
+
+Who Wants to be Hired
+
+LEVEL 28
+Remote Job Boards
+
+Remote OK
+
+We Work Remotely
+
+JS Remotely
+
+NoDesk
+
+LEVEL 29
+Startup Employees
+
+Use
+
+Crunchbase
+
+YC
+
+Angel ecosystem
+
+Startup directories
+
+LEVEL 30
+Government
+
+State employee directories
+
+Federal contractors
+
+Research labs
+
+Public universities
+
+LEVEL 31
+Patent Inventors
+
+USPTO
+
+Google Patents
+
+Many inventors work in AI and software.
+
+LEVEL 32
+Meetup Attendees
+
+Look at attendee lists.
+
+LEVEL 33
+Conference Attendees
+
+Speaker lists
+
+Sponsors
+
+Attendees
+
+LEVEL 34
+Public Company Employee Directories
+
+Many companies expose
+
+Engineering Teams
+
+Leadership
+
+Architecture
+
+Support
+
+LEVEL 35
+AI Sourcing Tools (Free / No Credit Card)
+
+Current options include:
+
+Recruit CRM Candidate Sourcing Tool (free daily searches with limited email/phone lookups)
+MindHunt AI (free trial with candidate credits, no credit card)
+Pin AI (free tier)
+Glozo (limited free contact credits)
+OfferAIO (free tier)
+Finding Contact Information
+
+Prioritize this sequence:
+
+Tier 1 (Direct)
+Resume email
+Resume phone
+Portfolio contact page
+GitHub profile email
+Personal website
+Tier 2
+LinkedIn message
+GitHub Discussions
+GitHub Issues
+Stack Overflow profile
+Dev.to profile
+Tier 3
+X DM
+Facebook
+Instagram
+Discord
+Telegram
+Tier 4
+Company switchboard
+Professional association directory
+Conference profile
+Mass Candidate Collection Workflow
+
+For building large pipelines:
+
+Google X-Ray search
+Export public profile URLs
+De-duplicate URLs
+Enrich with GitHub, portfolio, and social profiles
+Capture:
+Name
+Title
+Skills
+Location
+GitHub
+LinkedIn
+Portfolio
+Email (when publicly available)
+Phone (when publicly available)
+Organize into a searchable spreadsheet or ATS.
