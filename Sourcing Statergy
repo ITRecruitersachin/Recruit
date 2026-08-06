@@ -1,0 +1,95 @@
+Clay, Juicebox, ContactOut, RocketReach, and Apollo.
+
+Free / trial tools with contact details (email + phone) — no card needed
+
+For bulk/mass collection:
+Apollo.io — free tier with limited credits, lets you filter by title/company/tech stack and export emails + phone numbers without needing LinkedIn, with a Chrome extension that enriches LinkedIn profiles in one click (you already use this) 
+Lessie
+SalesQL — free plan offers 50 credits/month with no credit card, works across free, Premium, Sales Navigator, and Recruiter tiers of LinkedIn, and supports bulk capture across multiple pages of search results in one click — worth adding since it does bulk LinkedIn extraction, which Apollo's extension does one-profile-at-a-time 
+Salesforge
+FullEnrich — 50 free leads, no credit card, aggregates from 20+ data sources per query — good for cross-checking accuracy on your ContactOut/RocketReach hits 
+NERDBOT
+Saleshandy Lead Finder — 800M+ verified contacts with direct dials and emails, 75+ search filters, free trial with 50 credits, no credit card required 
+Saleshandy
+
+
+
+For single candidate lookups:
+
+Hunter.io — enter a company domain, get a ranked list of emails by seniority — useful when you already know a candidate's current employer 
+Lessie
+NumLookup — completely free, no account or card, connects to carrier networks and returns owner name, carrier, line type, and location for US numbers, and cross-references linked social profiles — handy for verifying a number before you dial 
+Saleshandy
+ContactOut free tier — 4 credits/day (already in your stack, but worth remembering it resets daily rather than monthly)
+Technical/niche sourcing beyond LinkedIn (plays to your AI/ML, DevOps, Cybersecurity focus)
+
+
+This is where your existing GitHub script work can be extended:
+
+
+AmazingHiring / SeekOut / HireEZ — all aggregate GitHub, Stack Overflow, Kaggle, and dozens of other developer/creative platforms into richer profiles than LinkedIn alone exposes, with SeekOut's "Coder Score" rating developers on actual code contributions rather than self-reported skills. These are paid tools but offer 14-day no-card trials — worth running a trial cycle timed to a live req so you extract maximum value before it expires. 
+Metaview
+Leonar
+Manual free channels: GitHub contribution histories, Stack Overflow expertise tags, open-source maintainer lists, and developer Discord/Slack communities — since roughly three-quarters of developers aren't actively job hunting per Stack Overflow's 2025 survey, these platforms surface people LinkedIn never will. This is slower per-lead but it's exactly where your competitors (who mostly live on Dice/Monster/LinkedIn) usually aren't looking. 
+Pin
+Pin
+Social platforms for follow/interact (not direct contact, but relationship-building)
+X/Twitter tech communities — many engineers post openly about job searches or tech stacks; searchable via X-ray search
+Reddit — r/cscareerquestions, r/devops, r/sysadmin, niche subreddits by stack; candidates often list contact info in flair or comments
+Discord/Slack tech communities — DevOps, cybersecurity, and cloud-specific servers where you can build presence over time
+Meetup.com — local/virtual tech meetup groups by skill area, free to browse attendee lists for many public events
+A note on mass collection
+
+
+Bulk scraping/exporting from LinkedIn and job boards sits in a gray zone — most of these platforms' Terms of Service restrict automated scraping, and LinkedIn actively detects and restricts accounts that bulk-export via extensions. The tools above (Apollo, SalesQL, ContactOut) are built to stay under detection thresholds, but pushing bulk exports aggressively on a single LinkedIn account is the fastest way to get that account restricted — something worth weighing given how central your 15,000+ network is to your differentiation.
+
+
+One more thing worth flagging: a lot of the "best tools" content currently ranking on Google for this topic is SEO-optimized by one vendor (Pin) promoting itself across nearly every article — so I'd treat any single source's "#1 pick" with some skepticism and trial 2-3 in parallel against a live req to see which actually finds candidates in your specific niches.
+
+
+The public government data goldmine (specific to your visa-category work)
+
+
+This is probably the highest-leverage thing here, and almost nobody uses it well:
+
+
+DOL LCA Disclosure Data — quarterly public filings from the Department of Labor covering every H-1B labor condition application, including employer, job title, wage, and worksite, available free via h1bdata.info, h1bdatawatch.com, or raw bulk CSV from DOL itself. Practical uses: 
+Pages
+
+Pull the list of companies filing LCAs for the exact job titles/tech stacks in your open reqs — those companies currently have H1B talent in that skill, some of whom are approaching visa transfer windows or project rolloffs
+
+Note the POC email on an LCA isn't the hiring manager — for that you'd need Section J of the full form, which employers are legally required to provide on request, but the filing employer name alone is enough to reverse-search on LinkedIn 
+
+H1B Data Watch
+Cross-reference against your 30 HBITS competitors' names as petitioners — this tells you which of them are actively placing H1B consultants right now, and where
+PERM Disclosure Data (green card labor certifications, also DOL, also free) — candidates in active PERM processing are often more open to a lateral move for a faster GC timeline. Same site structure as LCA data.
+Build a simple recurring pull: since you already have a working Python/openpyxl pipeline for GitHub, the same approach (script + pandas) works directly on DOL's bulk LCA/PERM CSVs — no scraping ToS issues since it's public government data.
+Boolean/X-ray tricks worth layering in
+
+
+Beyond basic site:linkedin.com/in, the operators that actually widen your net:
+
+filetype:pdf OR filetype:doc "resume" "your-skill" — surfaces resumes hosted on personal sites, university pages, and forgotten Dropbox/Drive public links that never show up in job board search
+intitle:"resume" OR intitle:"CV" combined with skill/location terms
+inurl:resume -inurl:jobs to filter out job-posting noise
+AROUND(n) (Google-specific) — finds two terms within n words of each other, useful for "Java AROUND(3) AWS" to catch resumes phrasing skills differently than your string
+Layer NOT terms aggressively to exclude recruiter/staffing-agency chaff: NOT recruiter NOT "talent acquisition" NOT staffing
+LinkedIn's own search bar supports AND/OR/NOT (capitalized), quoted phrases, and parentheses, up to roughly 1000 characters — worth building 3-4 saved master strings per skill cluster rather than rewriting each time. 
+juicebox
+Certification body directories (an underused single-candidate source)
+
+Several certifying bodies run public, searchable member directories — genuinely useful for cybersecurity, cloud, and PM roles:
+
+AWS Certified directory, Microsoft Certified Professional directory, Cisco's certification verification tool, PMI's member directory, (ISC)² member search — many let you search by cert + location and some expose LinkedIn links directly
+Industry-specific channels particular to US IT staffing from India
+Bench sales / vendor networks — WhatsApp broadcast groups, Telegram channels, and Google/Yahoo groups where sub-vendors circulate "hotlist" candidates currently on bench. This is standard practice in your segment; the tradeoff is these candidates are being shared with every competitor simultaneously, so speed-to-submit matters more than sourcing skill here.
+OPT/CPT pipelines — university international student career centers and OPT-focused job boards (candidates on OPT often need sponsorship soon, making them motivated movers)
+Layoffs.fyi and similar trackers — freshly laid-off candidates from tech companies are immediately available and highly responsive to outreach
+Professional community associations (regional tech/professional networking groups, alumni chapters of Indian engineering colleges with large US diaspora presence) — strong for warm referral chains rather than cold contact
+Automation add-ons (free tiers)
+PhantomBuster — free trial, automates LinkedIn/Twitter scraping workflows without an API
+Instant Data Scraper (free Chrome extension) — pulls tabular data off any search results page, useful for bulk-exporting Dice/CareerBuilder search results before they're gated
+Waalaxy — free tier for LinkedIn connection automation and light outreach sequencing
+Email pattern guessing (firstname.lastname@company.com style) + free verification via Hunter's verifier or NeverBounce's free credits, when a paid contact finder comes up empty
+
+One practical caution: bulk automation against LinkedIn specifically is the fastest way to get an account flagged — worth running these on a secondary account rather than your primary
