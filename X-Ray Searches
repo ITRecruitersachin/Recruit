@@ -1,0 +1,927 @@
+List of platforms that can be searched using Google X-Ray (site:), Bing X-Ray, Yandex, or other search engines. 
+The emphasis is on platforms where people create public profiles, portfolios, repositories, resumes, blogs, publications, event pages, or community accounts. 
+Google X-Ray works best on sites that expose public pages; 
+LinkedIn has reduced what Google indexes, while GitHub, Stack Overflow, personal sites, conference pages, and public documents remain especially valuable.
+
+---
+Professional Networks
+---
+
+LinkedIn
+LinkedIn Company Pages
+LinkedIn Services
+Xing
+Wellfound (AngelList)
+Jobcase
+Opportunity
+Polywork
+Contra
+Remote OK Profiles
+Wellfound Startup Profiles
+Startup Jobs
+Built In
+FlexJobs (public pages)
+Hired
+Gun.io
+Toptal
+Arc.dev
+Braintrust
+Upwork
+Freelancer
+Guru
+PeoplePerHour
+Fiverr Pro
+Catalant
+Malt
+
+---
+2. Software Development
+---
+
+GitHub
+GitHub Organizations
+GitHub Gists
+GitHub Discussions
+GitHub Pages
+GitLab
+Bitbucket
+SourceForge
+Codeberg
+Gitea
+Azure DevOps Public Projects
+Apache Git
+Eclipse Git
+Savannah GNU
+
+---
+3. Coding Communities
+---
+
+Stack Overflow
+Stack Exchange
+Server Fault
+Super User
+Ask Ubuntu
+Unix StackExchange
+DBA StackExchange
+Security StackExchange
+Salesforce StackExchange
+GIS StackExchange
+Dev.to
+Hashnode
+CodeProject
+DZone
+HackerNoon
+SitePoint
+CodePen
+JSFiddle
+JSBin
+Replit
+Glitch
+
+---
+4. Competitive Programming
+---
+
+LeetCode
+HackerRank
+Codeforces
+TopCoder
+AtCoder
+CodeChef
+Codingame
+Exercism
+Project Euler
+Advent of Code
+
+---
+5. AI / Machine Learning
+---
+
+Hugging Face
+Kaggle
+Papers With Code
+OpenML
+Weights & Biases
+TensorFlow Forum
+PyTorch Forum
+AI Stack Exchange
+Google AI Forum
+NVIDIA Developer
+
+---
+6. Research & Academic
+---
+
+Google Scholar
+ResearchGate
+ORCID
+Semantic Scholar
+arXiv
+SSRN
+Academia.edu
+IEEE Author Pages
+ACM Author Pages
+DBLP
+Mendeley
+CrossRef
+
+---
+7. Design Portfolios
+---
+
+Behance
+Dribbble
+Adobe Portfolio
+Carbonmade
+ArtStation
+Coroflot
+Cargo
+Pixpa
+Crevado
+Wix Portfolio
+
+---
+8. Personal Websites
+---
+
+GitHub Pages
+Netlify
+Vercel
+Cloudflare Pages
+WordPress
+Blogger
+Medium
+Ghost
+Notion
+Google Sites
+Squarespace
+Webflow
+Wix
+Carrd
+
+---
+9. Social Media
+---
+
+X
+Bluesky
+Mastodon
+Facebook
+Instagram
+Threads
+TikTok
+YouTube
+Vimeo
+Pinterest
+Reddit
+Snapchat (public profiles)
+Flickr
+
+---
+10. Messaging Communities
+---
+
+Discord Servers
+Slack Communities
+Telegram Groups
+Matrix
+Zulip
+IRC Archives
+
+---
+11. Startup Ecosystem
+---
+
+Product Hunt
+Indie Hackers
+Y Combinator
+Techstars
+Founder Institute
+F6S
+BetaList
+Startup Grind
+AngelList Archives
+Crunchbase public pages
+
+---
+12. Conferences
+---
+
+AWS re:Invent
+Microsoft Ignite
+Google Cloud Next
+KubeCon
+DockerCon
+PyCon
+JavaOne
+React Summit
+DEF CON
+Black Hat
+RSA Conference
+GopherCon
+RustConf
+NodeConf
+DevOpsDays
+QCon
+OSCON
+
+---
+13. Meetups
+---
+
+Meetup
+Eventbrite
+Sessionize
+Luma
+Mobilize
+Splash
+
+---
+14. University Sources
+---
+
+Career Centers
+Alumni Directories
+Faculty Pages
+Research Labs
+Engineering Departments
+Computer Science Departments
+Student Clubs
+IEEE Student Branches
+ACM Student Chapters
+Graduate Directories
+PhD Candidate Pages
+Capstone Project Pages
+
+---
+15. Government
+---
+
+Federal employee directories
+State employee directories
+State workforce portals
+Public university directories
+County employee directories
+Municipal employee directories
+National laboratories
+Research centers
+Public procurement vendor lists
+
+---
+16. Open Source Foundations
+---
+
+Apache Software Foundation
+Linux Foundation
+CNCF
+Eclipse Foundation
+Mozilla
+Python Software Foundation
+Rust Foundation
+OpenJS Foundation
+Kubernetes Contributors
+Docker Community
+
+---
+17. Resume Sources
+---
+
+PDF resumes
+DOC resumes
+DOCX resumes
+RTF resumes
+Public CVs
+Google Drive public documents
+OneDrive public documents
+Dropbox public documents
+Box public documents
+
+---
+18. Blogs
+---
+Medium
+Dev.to
+Hashnode
+Substack
+Blogger
+WordPress
+Ghost
+Hackernoon
+DZone
+
+---
+19. Package Registries
+---
+npm
+PyPI
+NuGet
+Maven Central
+RubyGems
+Cargo
+Go Packages
+Packagist
+CocoaPods
+Docker Hub
+
+---
+20. Cloud Communities
+---
+
+AWS Community Builders
+Azure Tech Community
+Google Cloud Community
+HashiCorp Community
+Red Hat Community
+VMware Community
+Oracle Cloud Community
+
+---
+21. Q&A Communities
+---
+
+Quora
+Reddit
+Stack Exchange Network
+Experts Exchange
+Spiceworks
+
+---
+22. Video & Learning
+---
+
+YouTube Channels
+Udemy Instructors
+Coursera Instructors
+edX
+Pluralsight Authors
+O'Reilly Authors
+
+---
+23. Patent & Innovation
+---
+
+Google Patents
+USPTO Inventor Search
+WIPO
+Espacenet
+
+---
+24. Business & Company Pages
+---
+
+Company engineering team pages
+Leadership pages
+Employee spotlight pages
+Press releases
+Author pages
+Speaker pages
+Technical blogs
+Engineering blogs
+
+---
+25. Public Documents (Highest ROI)
+---
+
+These are among the most productive X-Ray targets because they often contain full resumes, contact information, portfolios, or technical details:
+
+filetype:pdf
+filetype:doc
+filetype:docx
+filetype:ppt
+filetype:pptx
+filetype:xls
+filetype:xlsx
+filetype:txt
+filetype:rtf
+Estimated Scope
+
+This taxonomy covers 250+ distinct platforms and resource categories that can be targeted with X-Ray search. In practice, experienced technical recruiters often prioritize:
+
+GitHub (developers, open-source work)
+Stack Overflow / Stack Exchange (technical expertise)
+Personal portfolio sites (Netlify, Vercel, GitHub Pages)
+Conference speaker and attendee pages
+University faculty, research, and student project pages
+Public PDF/DOC resumes
+Hugging Face, Kaggle, and Papers With Code (AI/ML talent)
+Behance and Dribbble (design talent)
+
+These sources generally provide richer publicly indexed information than traditional professional networking profiles today.
+
+<SKILL> = Java | Python | AWS | React | DevOps | SAP | etc.
+<TITLE> = Software Engineer | Java Developer | DevOps Engineer
+<LOCATION> = Texas | Dallas | New York | Remote
+<COMPANY> = Google | Amazon | Microsoft
+<SCHOOL> = MIT | Stanford
+
+---
+1. LinkedIn
+---
+
+site:linkedin.com/in "<SKILL>" "<LOCATION>"
+
+site:linkedin.com/in "<TITLE>" "<LOCATION>"
+
+site:linkedin.com/in ("Java Developer" OR "Software Engineer") Dallas
+
+site:linkedin.com/in "<SKILL>" "Open to Work"
+
+site:linkedin.com/in "<SKILL>" "<COMPANY>"
+
+---
+2. GitHub
+---
+
+site:github.com "<SKILL>" "<LOCATION>"
+
+site:github.com "<TITLE>"
+
+site:github.com "Java Developer"
+
+site:github.com "AWS"
+
+site:github.com "Terraform"
+
+site:github.com "resume"
+
+site:github.com "<COMPANY>"
+
+site:github.com "United States"
+
+---
+3. GitHub Repositories
+---
+
+site:github.com "<SKILL>" inurl:repositories
+
+site:github.com "<SKILL>" "README"
+
+site:github.com "<SKILL>" Docker
+
+site:github.com "<SKILL>" Kubernetes
+
+---
+4. GitHub Pages
+---
+
+site:github.io "<SKILL>"
+
+site:github.io portfolio
+
+site:github.io "Software Engineer"
+
+site:github.io resume
+
+---
+5. GitLab
+---
+
+site:gitlab.com "<SKILL>"
+
+site:gitlab.com "<TITLE>"
+
+site:gitlab.com AWS
+
+site:gitlab.com Terraform
+
+---
+6. Bitbucket
+---
+
+site:bitbucket.org "<SKILL>"
+
+site:bitbucket.org "Software Engineer"
+
+site:bitbucket.org Azure
+
+---
+7. Stack Overflow
+---
+
+site:stackoverflow.com/users "<SKILL>"
+
+site:stackoverflow.com/users Java
+
+site:stackoverflow.com/users AWS
+
+site:stackoverflow.com/users Python
+
+---
+8. Stack Exchange
+---
+site:stackexchange.com "<SKILL>"
+
+site:stackexchange.com Kubernetes
+
+site:stackexchange.com Azure
+
+---
+9. Dev.to
+---
+
+site:dev.to "<SKILL>"
+
+site:dev.to "Java"
+
+site:dev.to AWS
+
+site:dev.to DevOps
+
+---
+10. Hashnode
+---
+
+site:hashnode.com "<SKILL>"
+
+site:hashnode.com React
+
+site:hashnode.com Python
+
+---
+11. Medium
+---
+
+site:medium.com "<SKILL>"
+
+site:medium.com "Software Engineer"
+
+site:medium.com Kubernetes
+
+---
+12. HackerNoon
+---
+
+site:hackernoon.com "<SKILL>"
+
+site:hackernoon.com AWS
+
+site:hackernoon.com AI
+
+---
+13. CodeProject
+---
+
+site:codeproject.com "<SKILL>"
+
+site:codeproject.com C#
+
+site:codeproject.com Azure
+
+---
+14. Kaggle
+---
+
+site:kaggle.com "<SKILL>"
+
+site:kaggle.com "Machine Learning"
+
+site:kaggle.com Python
+
+---
+15. Hugging Face
+---
+
+site:huggingface.co "<SKILL>"
+
+site:huggingface.co LLM
+
+site:huggingface.co NLP
+
+---
+16. Papers With Code
+---
+
+site:paperswithcode.com "<SKILL>"
+
+site:paperswithcode.com Transformer
+
+site:paperswithcode.com LLM
+
+---
+17. ResearchGate
+---
+
+site:researchgate.net "<SKILL>"
+
+site:researchgate.net AI
+
+site:researchgate.net NLP
+
+---
+18. Google Scholar
+---
+
+site:scholar.google.com "<SKILL>"
+
+site:scholar.google.com Kubernetes
+
+site:scholar.google.com AI
+
+---
+19. arXiv
+---
+
+site:arxiv.org "<SKILL>"
+
+site:arxiv.org LLM
+
+site:arxiv.org Deep Learning
+
+---
+20. Behance
+---
+
+site:behance.net UI
+
+site:behance.net UX
+
+site:behance.net Designer
+
+---
+21. Dribbble
+---
+
+site:dribbble.com UI
+
+site:dribbble.com UX
+
+site:dribbble.com Product Designer
+
+---
+22. Product Hunt
+---
+
+site:producthunt.com "<SKILL>"
+
+site:producthunt.com AI
+
+site:producthunt.com Founder
+
+---
+23. Indie Hackers
+---
+
+site:indiehackers.com "<SKILL>"
+
+site:indiehackers.com SaaS
+
+site:indiehackers.com Founder
+
+---
+24. Hacker News
+---
+
+site:news.ycombinator.com "<SKILL>"
+
+site:news.ycombinator.com "Who wants to be hired"
+
+site:news.ycombinator.com AI
+
+---
+25. Reddit
+---
+
+site:reddit.com "<SKILL>" resume
+
+site:reddit.com "Open to Work"
+
+site:reddit.com Java
+
+site:reddit.com AWS
+
+---
+26. X
+---
+
+site:x.com "<SKILL>"
+
+site:x.com "Software Engineer"
+
+site:x.com "OpenToWork"
+
+site:x.com AWS
+
+---
+27. Facebook
+---
+
+site:facebook.com "<SKILL>"
+
+site:facebook.com "Software Engineer"
+
+site:facebook.com AWS
+
+---
+28. Instagram
+---
+
+site:instagram.com "<SKILL>"
+
+site:instagram.com developer
+
+site:instagram.com portfolio
+
+---
+29. YouTube
+---
+
+site:youtube.com "<SKILL>"
+
+site:youtube.com AWS
+
+site:youtube.com DevOps
+
+---
+30. Meetup
+---
+
+site:meetup.com "<SKILL>"
+
+site:meetup.com AWS
+
+site:meetup.com Kubernetes
+
+---
+31. Eventbrite
+---
+
+site:eventbrite.com "<SKILL>"
+
+site:eventbrite.com AI
+
+site:eventbrite.com Java
+
+---
+32. University
+---
+
+site:edu "<SKILL>"
+
+site:edu resume
+
+site:edu "Computer Science"
+
+site:edu "Software Engineer"
+
+---
+33. Faculty Pages
+---
+
+site:edu faculty AI
+
+site:edu "Computer Science"
+
+site:edu Research Lab
+
+---
+34. Student Projects
+---
+
+site:edu capstone Java
+
+site:edu GitHub
+
+site:edu portfolio
+
+---
+35. PDF Resumes
+---
+
+filetype:pdf resume Java
+
+filetype:pdf "Software Engineer"
+
+filetype:pdf AWS
+
+filetype:pdf DevOps
+
+---
+36. DOC Resumes
+---
+
+filetype:doc resume Java
+
+filetype:docx resume AWS
+
+filetype:docx "Software Engineer"
+
+---
+37. Google Drive
+---
+
+site:drive.google.com resume Java
+
+site:drive.google.com AWS
+
+site:drive.google.com CV
+
+---
+38. OneDrive
+---
+
+site:onedrive.live.com resume Java
+
+site:onedrive.live.com CV
+
+---
+39. Dropbox
+---
+
+site:dropbox.com resume Java
+
+site:dropbox.com AWS
+
+---
+40. Personal Portfolios
+---
+
+site:netlify.app Java
+
+site:vercel.app React
+
+site:webflow.io portfolio
+
+site:github.io resume
+
+site:pages.dev developer
+
+---
+41. Package Registries
+---
+
+site:npmjs.com "<SKILL>"
+
+site:pypi.org "<SKILL>"
+
+site:rubygems.org Rails
+
+site:nuget.org ".NET"
+
+site:mvnrepository.com Spring
+
+---
+42. Conference Speakers
+---
+
+site:aws.amazon.com re:Invent speaker Java
+
+site:kubecon.io speaker Kubernetes
+
+site:reactsummit.com speaker React
+
+site:pycon.org speaker Python
+
+---
+43. Patents
+---
+
+site:patents.google.com AI
+
+site:uspto.gov inventor Java
+
+site:wipo.int inventor ML
+
+---
+44. Company Engineering Blogs
+---
+
+site:medium.com Google Engineering
+
+site:engineering.fb.com React
+
+site:netflixtechblog.com Java
+
+site:aws.amazon.com/blogs AWS
+
+---
+45. General Google OSINT Searches
+---
+
+"<SKILL>" "<LOCATION>" email
+
+"<SKILL>" "<LOCATION>" phone
+
+"<SKILL>" resume
+
+"<SKILL>" CV
+
+"<SKILL>" portfolio
+
+"<SKILL>" GitHub
+
+"<SKILL>" LinkedIn
+
+"<SKILL>" Stack Overflow
+
+"<SKILL>" blog
+
+"<SKILL>" speaker
+
+"<SKILL>" conference
+
+"<SKILL>" presentation
+
+"<SKILL>" "Open to Work"
+
+"<SKILL>" "Available Immediately"
